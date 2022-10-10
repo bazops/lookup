@@ -1,15 +1,11 @@
 #!/bin/bash
 
-#***************************************************************************************#
-# Author: 	Baris Caglar
+# Author:	Baris Caglar																
 # Purpose:	This script accepts a text file containing a list of domain names
-# 			and uses the nslookup command to determine whether each domain is active
-# 			and saves the results to a new file
-# Version: 	1.0
-# License: GPL version 2.0 or above
-#***************************************************************************************#
-
-
+# and uses the nslookup command to determine whether each domain is active
+# then saves the results to a new file
+# Version:	1.0
+# License:	GPL version 2.0 or above
 
 # Usage: lookup <file>
 
